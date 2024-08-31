@@ -1,6 +1,6 @@
 // src/pages/AdminPage.js
 import React from 'react';
-import LineChartComponent from '../components/LinearChartCOmponent';
+import LineChartComponent from '../components/SalesVsOrdersChart';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const AdminPage = () => (
